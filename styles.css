@@ -1,0 +1,63 @@
+* {
+
+}
+
+body {
+	background-color: #fff4e6;
+}
+
+h1, h2 {
+	font-family: Montserrat;
+}
+
+.section-header {
+	margin-top: 75px;
+	text-align: center;
+}
+
+.btn {
+	background-color: #854442;
+}
+
+.btn:hover {
+	background-color: #854442;
+}
+
+/*banner*/
+#welcome-banner {
+	background-image: url("hero-image3.jpg");
+	height: 675px;
+}
+
+/*about me the author*/
+#about-me {
+	margin: 20px 50px 30px;
+}
+
+/*works in progress*/
+#work-in-progress {
+	margin: 20px 50px 30px;
+	padding: 20px;
+}
+
+.card {
+	padding: 20px;
+	background-color: #be9b7b;
+}
+
+#writing-help {
+	background-color: #eee2d4;
+}
+/*footer*/
+footer {
+	background-color: #be9b7b;
+	padding: 20px;
+}
+
+.footer-link {
+	color: #000000;
+}
+
+.footer-link:hover {
+	color: #000000;
+}
